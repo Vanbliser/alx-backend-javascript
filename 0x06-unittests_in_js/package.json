@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/register": "^7.23.7",
+    "chai": "^5.0.3",
+    "mocha": "^10.2.0",
+    "mocha-parallel-tests": "^2.3.0",
+    "sinon": "^17.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
